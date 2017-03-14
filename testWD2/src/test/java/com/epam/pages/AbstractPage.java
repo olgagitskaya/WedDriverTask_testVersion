@@ -31,7 +31,7 @@ public abstract class AbstractPage
         String  price = price1.substring(number,(price1.length()-4));
 //        DecimalFormat df = new DecimalFormat("#.##");
 //        Double priceDoubleFormat = Double.valueOf(df.format(price));
-        return  Float.parseFloat(price);
+        return  Double.parseDouble(price);
     }
 
 
