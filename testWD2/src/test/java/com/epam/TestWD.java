@@ -79,7 +79,11 @@ public class TestWD
         public void oneCanCheckRightPriceForTwoPassengerFlightWithReturn ()
         {
             steps.canChooseFlightWithReturn(CITY_OF_DEPARTURE, CITY_OF_ARRIVAL, DATE_FORWARD, DATE_BACK);
-            Assert.assertEquals((steps.takePriceFromWebSiteFor1Passenger()*NUMBER_OF_PASSENGERS) + steps.takeBookingFee(), steps.takeFinalPrice());
+            double priceWithoutFee = steps.takePriceFromWebSiteFor1Passenger()*NUMBER_OF_PASSENGERS;
+            double bookingFee = steps.takeBookingFee();
+            double actualPrice = priceWithoutFee + bookingFee;
+            DecimalFormat df = new DecimalFormat("#.##");
+            Assert.assertEquals(df.format(actualPrice), df.format(steps.takeFinalPrice()));
         }
 
         @Test
