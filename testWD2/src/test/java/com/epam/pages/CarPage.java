@@ -15,10 +15,10 @@ public class CarPage extends AbstractPage {
     @FindBy(id = "pickupLocation")
     private WebElement cityOfDeparture;
 
-    @FindBy(id = "day-2017314")
+    @FindBy(id = "day-2017412")
     private WebElement dateOfDeparture;
 
-    @FindBy(id = "day-2017320")
+    @FindBy(id = "day-2017426")
     private WebElement dateOfArrival;
 
     @FindBy(id = "searchCarsFormBtn-searchcars")

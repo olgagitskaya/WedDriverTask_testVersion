@@ -6,6 +6,8 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.util.List;
+
 public class MainPage extends AbstractPage {
 
     public MainPage(WebDriver driver) {
@@ -120,16 +122,19 @@ public class MainPage extends AbstractPage {
     public void chooseDateFlight(String dateOfFlight)
     {
         WebDriverWait wait = new WebDriverWait(driver, 50);
-        String[] splitDate = dateOfFlight.split("/");
-        while (!monthInCalenderLeft.getText().equals(splitDate[1])) {
-            wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(PATH_TO_BUTTON_NEXT_IN_CALENDER)));
-            driver.findElement(By.xpath(PATH_TO_BUTTON_NEXT_IN_CALENDER)).click();
-        }
-        if (monthInCalenderLeft.getText().equals(splitDate[1]))
-        driver.findElement(By.xpath("//*[@id='datePickerContainer']//div[contains(@class, 'ui-datepicker-group-first')]//a[text() ='" + splitDate[0] + "']")).click();
-    }
-
-
+        //String[] splitDate = dateOfFlight.split("/");
+        // while (!monthInCalenderLeft.getText().equals(splitDate[1])) {
+        //     wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(PATH_TO_BUTTON_NEXT_IN_CALENDER)));
+        //    driver.findElement(By.xpath(PATH_TO_BUTTON_NEXT_IN_CALENDER)).click();
+        // }
+        // if (monthInCalenderLeft.getText().equals(splitDate[1]))
+        //List<WebElement> availableDatesList = driver.findElements(By.xpath("//*[@id='datePickerContainer']//div[contains(@class, 'ui-datepicker-group-last')]//a"));
+        List<WebElement> availableDatesList = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(By.xpath("//*[@id='datePickerContainer']//div[contains(@class, 'ui-datepicker-group-last')]//a")));
+        WebElement webElement = availableDatesList.get(availableDatesList.size()-1);
+        wait.until(ExpectedConditions.elementToBeClickable(webElement));
+        JavascriptExecutor jse = (JavascriptExecutor) driver;
+        jse.executeScript(PARAM_FOR_JAVA_SCRIPT, webElement);
+   }
 }
 
 

@@ -5,6 +5,8 @@ import com.epam.steps.Steps;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
+import java.text.DecimalFormat;
+
 public class TestWD
     {
         private Steps steps;
@@ -136,7 +138,7 @@ public class TestWD
             Assert.assertTrue(steps.isMapWithCarOffersDispaly());
         }
 
-        @AfterTest(description = "Stop Browser")
+        @AfterClass(description = "Stop Browser")
          public void stopBrowser()
          {
              steps.closeDriver();

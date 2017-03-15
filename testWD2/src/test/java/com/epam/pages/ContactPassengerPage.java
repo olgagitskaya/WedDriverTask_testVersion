@@ -6,7 +6,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.concurrent.TimeUnit;
 
@@ -20,7 +22,7 @@ public class ContactPassengerPage extends AbstractPage  {
     }
 
     private final String BASE_URL = "http://www.vueling.com/en";
-    @FindBy(xpath = ".//*[@id='ControlGroupMainContact_PassengerInputViewContactView_DropDownListTitle_0Div']//fieldset[contains(@class,'validacion')]/label[contains(text(),'*Mr.')]")
+    @FindBy(xpath = "//label[@for='ControlGroupMainContact_PassengerInputViewContactView_DropDownListTitle_0MR']")
     private WebElement mrButton;
 
     @FindBy(id = "ControlGroupMainContact_PassengerInputViewContactView_DropDownListTitle_0MRS")
@@ -69,7 +71,8 @@ public class ContactPassengerPage extends AbstractPage  {
         Select dropDownListCountrySelect = new Select(dropDownListCountryWE);
         Select dropDownListPhonePrefixSelect = new Select(dropDownListPhonePrefixWE);
         driver.manage().timeouts().implicitlyWait(25, TimeUnit.SECONDS);
-        mrButton.click();
+//        WebDriverWait wait = new WebDriverWait(driver, 50);
+//        wait.until(ExpectedConditions.visibilityOf(mrButton));
         textBoxName.clear();
         textBoxName.sendKeys(person.getName());
         textBoxSurname.clear();
@@ -82,6 +85,7 @@ public class ContactPassengerPage extends AbstractPage  {
         textBoxPhone.sendKeys(person.getPhone());
         textBoxEmailAddress.clear();
         textBoxEmailAddress.sendKeys(person.getEmail());
+        mrButton.click();
     }
 
     public boolean clickSubmit ()

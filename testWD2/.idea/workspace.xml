@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$USER_HOME$/.IdeaIC2016.3/system/temp-testng-customsuite.xml" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0ec6bb4f-4033-496c-886c-741b95f8a3e1" name="Default" comment="" />
     <ignored path="testWD.iws" />
@@ -25,41 +28,42 @@
       <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="711">
-              <caret line="107" column="35" lean-forward="false" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="35" />
+            <state relative-caret-position="323">
+              <caret line="136" column="4" lean-forward="false" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="4" />
               <folding>
-                <element signature="e#3226#3227#0" expanded="true" />
-                <element signature="e#3275#3276#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestWD.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestWD.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/TestWD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-328">
-              <caret line="80" column="33" lean-forward="false" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+            <state relative-caret-position="1275">
+              <caret line="83" column="100" lean-forward="false" selection-start-line="83" selection-start-column="100" selection-end-line="83" selection-end-column="100" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InfoAndSalesOfficesPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/InfoAndSalesOfficesPage.java">
+      <file leaf-file-name="ContactPassengerPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/ContactPassengerPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="-578">
+              <caret line="24" column="112" lean-forward="false" selection-start-line="24" selection-start-column="112" selection-end-line="24" selection-end-column="112" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Steps.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Steps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/steps/Steps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2963">
-              <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+            <state relative-caret-position="476">
+              <caret line="43" column="16" lean-forward="false" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,31 +74,8 @@
       <file leaf-file-name="AbstractPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/AbstractPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainPageServiceCenter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/MainPageServiceCenter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SeatAndLuggagePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/SeatAndLuggagePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+            <state relative-caret-position="391">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,22 +83,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScheduleSelectPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/ScheduleSelectPage.java">
+      <file leaf-file-name="CarPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/CarPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HotelPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/HotelPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="54" column="46" lean-forward="false" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
-              <folding />
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,18 +106,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/epam/pages/AbstractPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/CarPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/util/DriverSingleton.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/ContactPassengerPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/HotelPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/FlightsStatusPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/ScheduleSelectPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/SeatAndLuggagePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/TestWD.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/steps/Steps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/util/DriverSingleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/CarPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/AbstractPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/TestWD.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/pages/ContactPassengerPage.java" />
       </list>
     </option>
   </component>
@@ -156,10 +129,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="140" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="970" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -176,7 +149,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -343,8 +317,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,8 +338,8 @@
       <recent name="C:\Users\Anastasiya_Mashkevic\IdeaProjects\testWD2\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn">
-    <configuration default="false" name="TestWD.oneCanCheckStatusFlightByDestinations" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestWD">
+    <configuration default="false" name="TestWD" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.epam.*" />
@@ -379,7 +352,40 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.epam" />
       <option name="MAIN_CLASS_NAME" value="com.epam.TestWD" />
-      <option name="METHOD_NAME" value="oneCanCheckStatusFlightByDestinations" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestWD.oneCanSearchFlight" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.epam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="testWD" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.epam" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.TestWD" />
+      <option name="METHOD_NAME" value="oneCanSearchFlight" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -399,7 +405,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="TestWD.oneCanFindHotels" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightOneWay" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.epam.*" />
@@ -412,40 +418,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.epam" />
       <option name="MAIN_CLASS_NAME" value="com.epam.TestWD" />
-      <option name="METHOD_NAME" value="oneCanFindHotels" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestWD.oneCanFindCar" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.epam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="testWD" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.epam" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.TestWD" />
-      <option name="METHOD_NAME" value="oneCanFindCar" />
+      <option name="METHOD_NAME" value="oneCanCheckRightPriceForTwoPassengerFlightOneWay" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -498,7 +471,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="TestWD.oneCanCheckWrightPriceForTwoPassengerFlightOneWay" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestWD.oneCanFindCar" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.epam.*" />
@@ -511,7 +484,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.epam" />
       <option name="MAIN_CLASS_NAME" value="com.epam.TestWD" />
-      <option name="METHOD_NAME" value="oneCanCheckWrightPriceForTwoPassengerFlightOneWay" />
+      <option name="METHOD_NAME" value="oneCanFindCar" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -736,19 +709,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanCheckStatusFlightByDestinations" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanFindHotels" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanFindCar" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.TestWD" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanSearchFlight" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanCheckRightPriceForTwoPassengerFlightOneWay" />
       <item index="3" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanCheckWrightPriceForTwoPassengerFlightOneWay" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanFindCar" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanCheckWrightPriceForTwoPassengerFlightOneWay" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanFindCar" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanFindHotels" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanCheckStatusFlightByDestinations" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.TestWD" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanFindCar" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanCheckRightPriceForTwoPassengerFlightOneWay" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.TestWD.oneCanSearchFlight" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -790,63 +763,63 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.14 at 13h 32m 51s.xml">
+    <history-entry file="TestWD - 2017.03.15 at 15h 56m 39s.xml">
+      <configuration name="TestWD" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWD - 2017.03.15 at 16h 06m 11s.xml">
+      <configuration name="TestWD" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWD - 2017.03.15 at 16h 14m 39s.xml">
+      <configuration name="TestWD" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWD - 2017.03.15 at 16h 21m 57s.xml">
+      <configuration name="TestWD" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightOneWay - 2017.03.15 at 15h 58m 52s.xml">
+      <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightOneWay" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.15 at 15h 59m 12s.xml">
       <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.14 at 13h 37m 43s.xml">
-      <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" configurationId="TestNG" />
+    <history-entry file="TestWD_oneCanFindCar - 2017.03.15 at 16h 08m 05s.xml">
+      <configuration name="TestWD.oneCanFindCar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.14 at 13h 42m 28s.xml">
-      <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" configurationId="TestNG" />
+    <history-entry file="TestWD_oneCanSearchFlight - 2017.03.15 at 11h 49m 33s.xml">
+      <configuration name="TestWD.oneCanSearchFlight" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.14 at 13h 42m 59s.xml">
-      <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" configurationId="TestNG" />
+    <history-entry file="TestWD_oneCanSearchFlight - 2017.03.15 at 11h 50m 55s.xml">
+      <configuration name="TestWD.oneCanSearchFlight" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.14 at 13h 45m 44s.xml">
-      <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.14 at 13h 46m 46s.xml">
-      <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.14 at 14h 04m 26s.xml">
-      <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.14 at 14h 07m 30s.xml">
-      <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.14 at 14h 08m 51s.xml">
-      <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestWD_oneCanCheckRightPriceForTwoPassengerFlightWithReturn - 2017.03.14 at 14h 09m 19s.xml">
-      <configuration name="TestWD.oneCanCheckRightPriceForTwoPassengerFlightWithReturn" configurationId="TestNG" />
+    <history-entry file="TestWD_oneCanSearchFlight - 2017.03.15 at 11h 56m 49s.xml">
+      <configuration name="TestWD.oneCanSearchFlight" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="140" y="20" width="1400" height="970" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30565166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34948096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2738806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23716381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37254903" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39827374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -868,7 +841,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/steps/Steps.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/steps/Steps.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="TestNG">
@@ -881,43 +868,26 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/util/DriverSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="28" column="77" lean-forward="false" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver.exe" />
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver.exe" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1955">
           <caret line="125" column="68" lean-forward="false" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="68" />
           <folding>
-            <element signature="e#3226#3227#0" expanded="true" />
-            <element signature="e#3275#3276#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/geckodriver2.exe" />
-    <entry file="file://$USER_HOME$/Documents/Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver2.exe" />
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver2.exe" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/CarPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -945,7 +915,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -963,30 +932,31 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#1039#1040#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver.exe" />
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver.exe" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2125">
           <caret line="125" column="68" lean-forward="false" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="68" />
           <folding>
-            <element signature="e#3226#3227#0" expanded="true" />
-            <element signature="e#3275#3276#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/geckodriver2.exe" />
-    <entry file="file://$USER_HOME$/Documents/Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver2.exe" />
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver2.exe" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/CarPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,7 +984,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1039,7 +1008,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#1039#1040#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1063,8 +1032,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#3226#3227#0" expanded="true" />
-            <element signature="e#3275#3276#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1097,7 +1065,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1118,60 +1085,52 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources.properties" />
-    <entry file="file://$USER_HOME$/Documents/Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver2.exe" />
-    <entry file="file://$USER_HOME$/Documents/Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver.exe" />
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver2.exe" />
+    <entry file="file://$PROJECT_DIR$/../../../Downloads/WebDriverTask_Vueling-master(4)/WebDriverTask_Vueling-master/testWD/testWD/src/test/java/com/epam/geckodriver.exe" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/geckodriver2.exe" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/HotelPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="54" column="46" lean-forward="false" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#549#550#0" expanded="false" />
+            <element signature="e#595#596#0" expanded="false" />
+            <element signature="e#1711#1712#0" expanded="false" />
+            <element signature="e#1753#1754#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="496" column="0" lean-forward="false" selection-start-line="496" selection-start-column="0" selection-end-line="496" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="221">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/util/DriverSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        <state relative-caret-position="391">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#1039#1040#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/CarPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/ContactPassengerPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/FlightsStatusPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/HotelPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="54" column="46" lean-forward="false" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1183,77 +1142,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/SeatAndLuggagePage.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        <state relative-caret-position="482">
+          <caret line="465" column="0" lean-forward="false" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="136" column="4" lean-forward="false" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/internal/Invoker.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/InfoAndSalesOfficesPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="496" column="0" lean-forward="false" selection-start-line="496" selection-start-column="0" selection-end-line="496" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/SeatAndLuggagePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/steps/Steps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="43" column="16" lean-forward="false" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/FlightsStatusPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/MainPageServiceCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/AbstractPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="39" />
+        <state relative-caret-position="391">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/MainPageServiceCenter.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/CarPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="289">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/InfoAndSalesOfficesPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/ContactPassengerPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="-578">
+          <caret line="24" column="112" lean-forward="false" selection-start-line="24" selection-start-column="112" selection-end-line="24" selection-end-column="112" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/TestWD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-328">
-          <caret line="80" column="33" lean-forward="false" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+        <state relative-caret-position="1275">
+          <caret line="83" column="100" lean-forward="false" selection-start-line="83" selection-start-column="100" selection-end-line="83" selection-end-column="100" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/pages/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="107" column="35" lean-forward="false" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="35" />
-          <folding>
-            <element signature="e#3226#3227#0" expanded="true" />
-            <element signature="e#3275#3276#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/steps/Steps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2963">
-          <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
