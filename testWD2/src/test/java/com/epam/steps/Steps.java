@@ -178,6 +178,7 @@ public class Steps {
         scheduleSelectPage.chooseFlightTwoWays();
         contactPassengerPage.enterAndSubmitPassengerContact(person);
         contactPassengerPage.clickSubmit();
+        Thread.sleep(13000);
         seatAndLuggagePage.addLuggageToTicket();
 
     }
@@ -192,6 +193,7 @@ public class Steps {
         scheduleSelectPage.chooseFlightTwoWays();
         contactPassengerPage.enterAndSubmitPassengerContact(person);
         contactPassengerPage.clickSubmit();
+        Thread.sleep(13000);
         seatAndLuggagePage.addSeatToTicket();
 
     }
