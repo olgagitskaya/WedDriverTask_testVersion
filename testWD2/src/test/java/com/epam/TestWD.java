@@ -108,7 +108,7 @@ public class TestWD
             Person person = new Person("John", "Smith", "Minsk", "456783", "johnsmith@gmail.com", "BY", "+375");
             steps.startWorkWithMainPage(CITY_OF_DEPARTURE, CITY_OF_ARRIVAL, DATE_FORWARD);
             steps.addSeat(person, DATE_BACK);
-            Assert.assertEquals(steps.takeTotalPriceForPassengerWithSeats()*2, steps.takePriceForPassengerWithSeatsFromTable());
+            Assert.assertEquals(steps.takeTotalPriceForPassengerWithSeats() / FLIGHT_WITH_RETURN, steps.takePriceForPassengerWithSeatsFromTable());
         }
 
         @Test
